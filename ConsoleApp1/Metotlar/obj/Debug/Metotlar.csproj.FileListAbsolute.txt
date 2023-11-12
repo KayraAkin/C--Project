@@ -1,0 +1,7 @@
+D:\Projeler\C# Projelerim\ConsoleApp1\Metotlar\bin\Debug\Metotlar.exe.config
+D:\Projeler\C# Projelerim\ConsoleApp1\Metotlar\bin\Debug\Metotlar.exe
+D:\Projeler\C# Projelerim\ConsoleApp1\Metotlar\bin\Debug\Metotlar.pdb
+D:\Projeler\C# Projelerim\ConsoleApp1\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+D:\Projeler\C# Projelerim\ConsoleApp1\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+D:\Projeler\C# Projelerim\ConsoleApp1\Metotlar\obj\Debug\Metotlar.exe
+D:\Projeler\C# Projelerim\ConsoleApp1\Metotlar\obj\Debug\Metotlar.pdb

@@ -1,0 +1,7 @@
+D:\Projeler\C# Projelerim\ConsoleApp1\Matematik\bin\Debug\Matematik.exe.config
+D:\Projeler\C# Projelerim\ConsoleApp1\Matematik\bin\Debug\Matematik.exe
+D:\Projeler\C# Projelerim\ConsoleApp1\Matematik\bin\Debug\Matematik.pdb
+D:\Projeler\C# Projelerim\ConsoleApp1\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+D:\Projeler\C# Projelerim\ConsoleApp1\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+D:\Projeler\C# Projelerim\ConsoleApp1\Matematik\obj\Debug\Matematik.exe
+D:\Projeler\C# Projelerim\ConsoleApp1\Matematik\obj\Debug\Matematik.pdb
